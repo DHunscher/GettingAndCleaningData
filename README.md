@@ -23,6 +23,12 @@ From the original data set's README.txt, this description of the context:
  5. From the data set in step 4, creates a second, independent tidy data set 
        with the average of each variable for each activity and each subject.
  
+## To run
+
+From R or RStudio, Source the file run_analysis.R and then enter the command 
+run_analysis(), or modify the defaults by entering any or all of the input 
+arguments shown below.
+ 
 ## Inputs
        Data.URL               :        URL of the data set zip file.
        UCI.HAR.Dataset.Folder :        folder containing unzipped contents of 
